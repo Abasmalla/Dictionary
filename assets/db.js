@@ -4,7 +4,7 @@ var definitions = [
 	{"en":"ability","id":"kemampuan"},
 	{"en":"able","id":"sanggup"},
 	{"en":"abortion","id":"abortus"},
-	{"en":"about","id":"tentang"},
+	{"en":"about","id":"متلق"},
 	{"en":"above","id":"atas"},
 	{"en":"abroad","id":"di luar negeri"},
 	{"en":"absence","id":"ketiadaan"},
